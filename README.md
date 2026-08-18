@@ -1,0 +1,2 @@
+# SDBMSQL
+which shows the learning of my sql with java 
